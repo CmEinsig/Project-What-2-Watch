@@ -8,7 +8,7 @@ What 2 Watch is a collaborative effort to build a web application to allow users
 
 ## Usage
 
-The User will be able to type in a movie name and the page will display the ratings and reviews for that particular movie from 2 different apis. The user's search history will automatically save upon search and can be deleted by clicking on the remove button. https://cmeinsig.github.io/Project-What-2-Watch/
+The User will be able to type in a movie name and the page will display the ratings and reviews for that particular movie from 2 different apis. The user's search history will automatically save upon search and can be deleted by clicking on the remove button. [Link to deployed site](https://cmeinsig.github.io/Project-What-2-Watch/)
 
 ![alt text](assets/images/screenshot.png)
 
